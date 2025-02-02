@@ -66,27 +66,38 @@ jupyter notebook
 ### 🏀 Eventos Deportivos
 - **Descripción:** Análisis de estadísticas de la NBA, evaluando el rendimiento de equipos y jugadores.
 - **Procesos:** Análisis de tendencias de victorias, eficiencia de jugadores y predicciones de resultados.
+- **Herramientas:** Uso de Power BI para la creación de dashboards interactivos que permiten visualizar métricas clave de rendimiento.
 - **Datasets:** Incluyen información sobre partidos, estadísticas de jugadores y clasificaciones de equipos.
+
+![Dashboard Power BI](img/eventos_deportivos_dashboard.png)
 
 ### 🌸 Actividades y Hobbies
 - **Descripción:** Estudio de tendencias en actividades recreativas y hobbies populares.
 - **Procesos:** Análisis de encuestas de participación, frecuencia de actividades y preferencia por región.
 - **Dataset:** [Sports and Outdoors (Kaggle)](https://www.kaggle.com/datasets/)
 
+![Análisis de Actividades](img/actividades_hobbies_analisis.png)
+
 ### 🍽️ Restaurantes y Sitios
 - **Descripción:** Evaluación de datos relacionados con restaurantes, su popularidad y calidad del servicio.
 - **Procesos:** Análisis de reseñas de clientes, calificaciones promedio y patrones de consumo en diferentes ubicaciones.
 - **Contenido:** Conexión a bases de datos SQL, análisis de datos geoespaciales y gráficos de dispersión.
+
+![Mapa de Restaurantes](img/restaurantes_map.png)
 
 ### 🎙️ Conciertos y Eventos Públicos
 - **Descripción:** Análisis de datos de eventos y conciertos para identificar patrones de asistencia y popularidad.
 - **Procesos:** Limpieza de datos, análisis de sentimientos en reseñas de eventos y predicciones de asistencia.
 - **Dataset:** Datos extraídos de plataformas de eventos y redes sociales.
 
+![Análisis de Sentimientos](img/conciertos_sentimientos.png)
+
 ### 🎮 Análisis de Métricas de Valve
 - **Descripción:** Estudio del comportamiento de los usuarios de juegos de Valve mediante análisis de reseñas y métricas de uso.
 - **Procesos:** Extracción de datos de Steam, análisis de sentimientos en reseñas y visualización de patrones de juego.
 - **Dataset:** [Steam Reviews (Kaggle)](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)
+
+![Gráficos de Métricas](img/valve_metricas.png)
 
 ## 🛠️ Herramientas Utilizadas
 
@@ -95,12 +106,22 @@ jupyter notebook
 - **Pandas y NumPy:** Manipulación y análisis de datos.
 - **Matplotlib y Seaborn:** Visualización de datos.
 - **Scikit-learn:** Modelado predictivo y análisis estadístico.
+- **Power BI:** Visualización avanzada de datos para análisis de eventos deportivos.
 - **APIs externas:** Para la recolección de datos en tiempo real.
+
+## 🎥 Guía para Video de YouTube
+
+1. **Introducción:** Breve descripción del proyecto y sus objetivos.
+2. **Estructura del Repositorio:** Mostrar la organización de carpetas y explicar el propósito de cada una.
+3. **Análisis de Datos:** Demostrar el proceso de carga de datos, análisis exploratorio y visualización de resultados.
+4. **Dashboards en Power BI:** Explicar cómo se crearon los dashboards y qué información presentan.
+5. **Conclusiones:** Resaltar los hallazgos más relevantes del análisis.
+6. **Cierre:** Agradecimientos y llamado a la acción para visitar el repositorio en GitHub.
 
 ## 👥 Créditos
 
 Proyecto realizado por estudiantes de la Escuela Politécnica Nacional:
-- **D. Mejia** - Análisis de Eventos Deportivos
+- **D. Mejia** - Análisis de Eventos Deportivos (uso de Power BI)
 - **E. Sarango** - Estudio de Actividades y Hobbies
 - **S. Cumbal** - Evaluación de Restaurantes y Sitios
 - **J. Guerra** - Análisis de Conciertos y Eventos Públicos
