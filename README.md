@@ -15,8 +15,8 @@ Este repositorio contiene el proyecto final de análisis de datos desarrollado p
   - [Conciertos y Eventos Públicos](#conciertos-y-eventos-públicos)
   - [Análisis de Métricas de Valve](#análisis-de-métricas-de-valve)
 - [Herramientas Utilizadas](#herramientas-utilizadas)
-- [Créditos](#créditos)
 - [Enlaces a Videos](#enlaces-a-videos)
+- [Créditos](#créditos)
 
 ## 📊 Descripción General
 
@@ -113,7 +113,7 @@ jupyter notebook
 
 ## 🎥 Enlaces a Videos
 
-A continuación se incluyen los enlaces a los videos donde se explica el proceso de análisis y los resultados obtenidos durante el proyecto. Estos videos ofrecen una demostración visual de los pasos realizados:
+A continuación se incluyen los enlaces a los videos donde se explica el proceso de análisis y los resultados obtenidos durante el proyecto. Estos videos proporcionan una visión clara de los pasos realizados y los hallazgos obtenidos:
 
 - [Video 1: Análisis de Datos y Resultados](https://youtu.be/enlace1)
 - [Video 2: Visualización de Resultados y Conclusiones](https://youtu.be/enlace2)
@@ -126,4 +126,4 @@ Proyecto realizado por estudiantes de la Escuela Politécnica Nacional:
 - **S. Cumbal** - Evaluación de Restaurantes y Sitios
 - **J. Guerra** - Análisis de Conciertos y Eventos Públicos
 - **A. Ramos** - Análisis de Métricas de Valve
-```
+
