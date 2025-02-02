@@ -105,4 +105,3 @@ Proyecto realizado por estudiantes de la Escuela Politécnica Nacional:
 - **S. Cumbal** - Evaluación de Restaurantes y Sitios
 - **J. Guerra** - Análisis de Conciertos y Eventos Públicos
 - **A. Ramos** - Análisis de Métricas de Valve
-
