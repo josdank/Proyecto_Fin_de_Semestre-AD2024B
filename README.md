@@ -1,4 +1,4 @@
-```markdown
+
 # Proyecto de Análisis de Datos - Escuela Politécnica Nacional
 
 Este repositorio contiene el proyecto final de análisis de datos desarrollado por estudiantes de la Escuela Politécnica Nacional. El proyecto está dividido en varias secciones, cada una enfocada en un tema específico.
