@@ -1,4 +1,4 @@
-
+---
 
 # Proyecto de Análisis de Datos - Escuela Politécnica Nacional
 
@@ -17,7 +17,6 @@ Este repositorio contiene el proyecto final de análisis de datos realizado por 
   - [Análisis de Métricas de Valve](#análisis-de-métricas-de-valve)
 - [Herramientas Utilizadas](#herramientas-utilizadas)
 - [Enlaces a Videos](#enlaces-a-videos)
-- [Datasets Utilizados](#datasets-utilizados)
 - [Créditos](#créditos)
 
 ## 📊 Descripción General
@@ -81,7 +80,12 @@ Análisis de las estadísticas de la NBA, evaluando el rendimiento de equipos y 
 - Power BI para visualización.
 - Python para procesamiento y análisis de datos.
 
-![Dashboard Power BI](https://www.w3schools.com/w3images/bridges.jpg)
+![Dashboard Power BI](https://via.placeholder.com/400x200.png?text=Ejemplo+de+Dashboard+Power+BI)
+
+#### Dataset:
+**[NBA Statistics (Kaggle)](https://www.kaggle.com/datasets/)**
+
+---
 
 ### 🌸 Actividades y Hobbies
 
@@ -95,7 +99,9 @@ Estudio de las tendencias en actividades recreativas y hobbies populares. Se ana
 **Dataset:**  
 [Sports and Outdoors (Kaggle)](https://www.kaggle.com/datasets/)
 
-![Análisis de Actividades](https://www.w3schools.com/w3images/flowers.jpg)
+![Análisis de Actividades](https://via.placeholder.com/400x200.png?text=Análisis+de+Actividades)
+
+---
 
 ### 🍽️ Restaurantes y Sitios
 
@@ -111,7 +117,12 @@ Evaluación de datos relacionados con restaurantes y su popularidad. Se analiza 
 - Bases de datos SQL.
 - Python y pandas para análisis.
 
-![Mapa de Restaurantes](https://www.w3schools.com/w3images/map.jpg)
+![Mapa de Restaurantes](https://via.placeholder.com/400x200.png?text=Mapa+de+Restaurantes)
+
+#### Dataset:
+**[Restaurant Reviews Dataset (Kaggle)](https://www.kaggle.com/datasets/)**
+
+---
 
 ### 🎙️ Conciertos y Eventos Públicos
 
@@ -126,7 +137,12 @@ Análisis de datos sobre conciertos y eventos públicos para identificar patrone
 **Dataset:**  
 - Datos extraídos de plataformas de eventos y redes sociales.
 
-![Análisis de Sentimientos](https://www.w3schools.com/w3images/concert.jpg)
+![Análisis de Sentimientos](https://via.placeholder.com/400x200.png?text=Análisis+de+Sentimientos)
+
+#### Dataset:
+**[Concerts and Events Data (Kaggle)](https://www.kaggle.com/datasets/)**
+
+---
 
 ### 🎮 Análisis de Métricas de Valve
 
@@ -141,7 +157,9 @@ Estudio del comportamiento de los usuarios en los juegos de Valve, utilizando an
 **Dataset:**  
 [Steam Reviews (Kaggle)](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)
 
-![Gráficos de Métricas](https://www.w3schools.com/w3images/steam.jpg)
+![Gráficos de Métricas](https://via.placeholder.com/400x200.png?text=Gráficos+de+Métricas)
+
+---
 
 ## 🛠️ Herramientas Utilizadas
 
@@ -160,12 +178,6 @@ A continuación, se incluyen los enlaces a los videos explicativos de los análi
 - [Video 1: Análisis de Datos y Resultados](https://youtu.be/enlace1)
 - [Video 2: Visualización de Resultados y Conclusiones](https://youtu.be/enlace2)
 
-## 📁 Datasets Utilizados
-
-- **[Sports and Outdoors (Kaggle)](https://www.kaggle.com/datasets/)** – Datos sobre actividades recreativas y deportes.
-- **[Steam Reviews (Kaggle)](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)** – Datos sobre reseñas de juegos en Steam.
-- **[NBA Stats (Basketball Reference)](https://www.basketball-reference.com/)** – Datos históricos de la NBA para análisis de rendimiento.
-
 ## 👥 Créditos
 
 Este proyecto fue realizado por los siguientes estudiantes de la Escuela Politécnica Nacional:
@@ -174,3 +186,5 @@ Este proyecto fue realizado por los siguientes estudiantes de la Escuela Polité
 - **S. Cumbal** - Evaluación de Restaurantes y Sitios
 - **J. Guerra** - Análisis de Conciertos y Eventos Públicos
 - **A. Ramos** - Análisis de Métricas de Valve
+
+---
