@@ -1,7 +1,7 @@
 
 # Proyecto de Análisis de Datos - Escuela Politécnica Nacional
 
-Este repositorio contiene el proyecto final de análisis de datos desarrollado por estudiantes de la Escuela Politécnica Nacional. A través de diversas secciones, se aplican técnicas avanzadas de análisis de datos para extraer conclusiones relevantes de diversas fuentes, abordando temas como deportes, actividades recreativas, gastronomía y más.
+Este repositorio contiene el proyecto final de análisis de datos realizado por los estudiantes de la Escuela Politécnica Nacional. A través de este proyecto, se aplican técnicas avanzadas para extraer conclusiones relevantes de una variedad de fuentes de datos, abordando diversos temas como deportes, hobbies, gastronomía, y más.
 
 ## 🔍 Tabla de Contenidos
 - [Descripción General](#descripción-general)
@@ -20,7 +20,7 @@ Este repositorio contiene el proyecto final de análisis de datos desarrollado p
 
 ## 📊 Descripción General
 
-Este proyecto tiene como objetivo aplicar técnicas de análisis de datos para extraer información valiosa de diferentes fuentes. Cada sección aborda un tema distinto, utilizando métodos de recolección, limpieza, visualización y análisis de datos. Las técnicas utilizadas incluyen estadísticas, machine learning y análisis exploratorio para obtener conclusiones basadas en datos reales.
+Este proyecto tiene como objetivo aplicar técnicas de análisis de datos para extraer información valiosa de diversas fuentes. Cada sección aborda un tema distinto, utilizando métodos de recolección, limpieza, visualización y análisis de datos. Se emplean técnicas estadísticas, de machine learning y análisis exploratorio para obtener conclusiones basadas en datos reales, lo que permite generar informes de valor práctico para los usuarios.
 
 ## 📁 Estructura del Proyecto
 
@@ -33,7 +33,7 @@ Proyecto_Fin_de_Semestre-AD2024B-main/
 └── 6. Analisis_metricas_Valve-ARamos/
 ```
 
-Cada carpeta contiene notebooks de Jupyter, scripts en Python y archivos de datos utilizados para el análisis.
+Cada carpeta contiene notebooks de Jupyter, scripts en Python y archivos de datos utilizados para el análisis. Estos elementos se organizan para facilitar la ejecución y reproducibilidad de los experimentos realizados.
 
 ## 🚀 Instrucciones de Instalación
 
@@ -52,13 +52,13 @@ Cada carpeta contiene notebooks de Jupyter, scripts en Python y archivos de dato
 
 ## 📚 Guía de Uso
 
-Cada carpeta contiene notebooks de Jupyter con código para:
-- Recolección de datos desde APIs, archivos CSV o web scraping.
-- Limpieza y preprocesamiento de datos para asegurar su calidad.
-- Análisis exploratorio de datos (EDA) para identificar patrones y anomalías.
-- Visualización de resultados mediante gráficos y dashboards interactivos.
+Este proyecto utiliza notebooks de Jupyter para:
+- **Recolección de datos:** Desde APIs, archivos CSV, o scraping web.
+- **Limpieza y preprocesamiento de datos:** Asegurando la calidad y precisión de los datos.
+- **Análisis exploratorio de datos (EDA):** Identificación de patrones y tendencias.
+- **Visualización de resultados:** Creación de gráficos interactivos y dashboards.
 
-Ejecuta los notebooks usando:
+Para ejecutar los notebooks, usa:
 ```bash
 jupyter notebook
 ```
@@ -66,64 +66,103 @@ jupyter notebook
 ## 🌐 Análisis por Secciones
 
 ### 🏀 Eventos Deportivos
-- **Descripción:** Análisis de estadísticas de la NBA, evaluando el rendimiento de equipos y jugadores.
-- **Procesos:** Análisis de tendencias de victorias, eficiencia de jugadores y predicciones de resultados.
-- **Herramientas:** Uso de Power BI para la creación de dashboards interactivos que permiten visualizar métricas clave de rendimiento.
-- **Datasets:** Información sobre partidos, estadísticas de jugadores y clasificaciones de equipos.
 
-![Dashboard Power BI](https://raw.githubusercontent.com/tu-usuario/Proyecto_Analisis_Datos/img/eventos_deportivos_dashboard.png)
+**Descripción:**  
+Análisis de las estadísticas de la NBA, evaluando el rendimiento de equipos y jugadores. Se utilizan datos históricos de partidos y estadísticas individuales para analizar tendencias y predecir resultados futuros.
+
+**Procesos:**  
+- Análisis de victorias y derrotas de equipos.
+- Evaluación de la eficiencia de los jugadores mediante métricas avanzadas.
+- Visualización de los resultados utilizando dashboards interactivos con Power BI.
+
+**Herramientas:**  
+- Power BI para visualización.
+- Python para procesamiento y análisis de datos.
+
+![Dashboard Power BI](https://via.placeholder.com/600x300.png?text=Ejemplo+de+Dashboard+Power+BI)
 
 ### 🌸 Actividades y Hobbies
-- **Descripción:** Estudio de tendencias en actividades recreativas y hobbies populares.
-- **Procesos:** Análisis de encuestas de participación, frecuencia de actividades y preferencia por región.
-- **Dataset:** [Sports and Outdoors (Kaggle)](https://www.kaggle.com/datasets/)
 
-![Análisis de Actividades](https://raw.githubusercontent.com/tu-usuario/Proyecto_Analisis_Datos/img/actividades_hobbies_analisis.png)
+**Descripción:**  
+Estudio de las tendencias en actividades recreativas y hobbies populares. Se analiza la participación en diversas actividades, la frecuencia con que se realizan y las preferencias por región.
+
+**Procesos:**  
+- Análisis de encuestas de participación y preferencias.
+- Identificación de tendencias en hobbies y actividades recreativas.
+
+**Dataset:**  
+[Sports and Outdoors (Kaggle)](https://www.kaggle.com/datasets/)
+
+![Análisis de Actividades](https://via.placeholder.com/600x300.png?text=Ejemplo+de+Análisis+de+Actividades)
 
 ### 🍽️ Restaurantes y Sitios
-- **Descripción:** Evaluación de datos relacionados con restaurantes, su popularidad y calidad del servicio.
-- **Procesos:** Análisis de reseñas de clientes, calificaciones promedio y patrones de consumo en diferentes ubicaciones.
-- **Contenido:** Conexión a bases de datos SQL, análisis de datos geoespaciales y gráficos de dispersión.
 
-![Mapa de Restaurantes](https://raw.githubusercontent.com/tu-usuario/Proyecto_Analisis_Datos/img/restaurantes_map.png)
+**Descripción:**  
+Evaluación de datos relacionados con restaurantes y su popularidad. Se analiza la calidad del servicio y las reseñas de los clientes para identificar patrones en la elección de restaurantes.
+
+**Procesos:**  
+- Recolección de datos de restaurantes y su calificación.
+- Análisis de reseñas y patrones de consumo.
+- Gráficos geoespaciales y dispersión de datos.
+
+**Herramientas:**  
+- Bases de datos SQL.
+- Python y pandas para análisis.
+
+![Mapa de Restaurantes](https://via.placeholder.com/600x300.png?text=Mapa+de+Restaurantes)
 
 ### 🎙️ Conciertos y Eventos Públicos
-- **Descripción:** Análisis de datos de eventos y conciertos para identificar patrones de asistencia y popularidad.
-- **Procesos:** Limpieza de datos, análisis de sentimientos en reseñas de eventos y predicciones de asistencia.
-- **Dataset:** Datos extraídos de plataformas de eventos y redes sociales.
 
-![Análisis de Sentimientos](https://raw.githubusercontent.com/tu-usuario/Proyecto_Analisis_Datos/img/conciertos_sentimientos.png)
+**Descripción:**  
+Análisis de datos sobre conciertos y eventos públicos para identificar patrones de asistencia, popularidad y análisis de sentimientos a partir de reseñas.
+
+**Procesos:**  
+- Limpieza de datos.
+- Análisis de sentimientos de reseñas de eventos.
+- Predicción de asistencia a eventos futuros.
+
+**Dataset:**  
+- Datos extraídos de plataformas de eventos y redes sociales.
+
+![Análisis de Sentimientos](https://via.placeholder.com/600x300.png?text=Análisis+de+Sentimientos)
 
 ### 🎮 Análisis de Métricas de Valve
-- **Descripción:** Estudio del comportamiento de los usuarios de juegos de Valve mediante análisis de reseñas y métricas de uso.
-- **Procesos:** Extracción de datos de Steam, análisis de sentimientos en reseñas y visualización de patrones de juego.
-- **Dataset:** [Steam Reviews (Kaggle)](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)
 
-![Gráficos de Métricas](https://raw.githubusercontent.com/tu-usuario/Proyecto_Analisis_Datos/img/valve_metricas.png)
+**Descripción:**  
+Estudio del comportamiento de los usuarios en los juegos de Valve, utilizando análisis de reseñas y métricas de uso en plataformas como Steam.
+
+**Procesos:**  
+- Extracción de datos de Steam.
+- Análisis de las reseñas y patrones de uso de los juegos.
+- Visualización de métricas clave de los jugadores.
+
+**Dataset:**  
+[Steam Reviews (Kaggle)](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)
+
+![Gráficos de Métricas](https://via.placeholder.com/600x300.png?text=Gráficos+de+Métricas)
 
 ## 🛠️ Herramientas Utilizadas
 
-- **Python:** Lenguaje principal para el análisis de datos.
-- **Jupyter Notebook:** Para la creación y ejecución de análisis interactivos.
+- **Python:** Lenguaje principal para la implementación de modelos y análisis de datos.
+- **Jupyter Notebook:** Para la creación y ejecución de notebooks interactivos.
 - **Pandas y NumPy:** Manipulación y análisis de datos.
-- **Matplotlib y Seaborn:** Visualización de datos.
-- **Scikit-learn:** Modelado predictivo y análisis estadístico.
-- **Power BI:** Visualización avanzada de datos para análisis de eventos deportivos.
+- **Matplotlib y Seaborn:** Para la visualización de datos.
+- **Scikit-learn:** Para la creación de modelos predictivos.
+- **Power BI:** Para la visualización interactiva en eventos deportivos.
 - **APIs externas:** Para la recolección de datos en tiempo real.
 
 ## 🎥 Enlaces a Videos
 
-A continuación se incluyen los enlaces a los videos donde se explica el proceso de análisis y los resultados obtenidos durante el proyecto. Estos videos proporcionan una visión clara de los pasos realizados y los hallazgos obtenidos:
+A continuación, se incluyen los enlaces a los videos explicativos de los análisis realizados en este proyecto:
 
 - [Video 1: Análisis de Datos y Resultados](https://youtu.be/enlace1)
 - [Video 2: Visualización de Resultados y Conclusiones](https://youtu.be/enlace2)
 
 ## 👥 Créditos
 
-Proyecto realizado por estudiantes de la Escuela Politécnica Nacional:
+Este proyecto fue realizado por los siguientes estudiantes de la Escuela Politécnica Nacional:
 - **D. Mejia** - Análisis de Eventos Deportivos (uso de Power BI)
 - **E. Sarango** - Estudio de Actividades y Hobbies
 - **S. Cumbal** - Evaluación de Restaurantes y Sitios
 - **J. Guerra** - Análisis de Conciertos y Eventos Públicos
 - **A. Ramos** - Análisis de Métricas de Valve
-
