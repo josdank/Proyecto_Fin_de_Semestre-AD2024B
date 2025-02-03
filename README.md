@@ -80,7 +80,7 @@ Análisis de las estadísticas de la NBA, evaluando el rendimiento de equipos y 
 - Power BI para visualización.
 - Python para procesamiento y análisis de datos.
 
-![Dashboard Power BI](https://via.placeholder.com/400x200.png?text=Ejemplo+de+Dashboard+Power+BI)
+![Dashboard Power BI](![image](https://github.com/user-attachments/assets/845326fd-63cf-43d9-bbc5-0f5428d25c69)
 
 #### Dataset:
 **[NBA Statistics (Kaggle)](https://www.kaggle.com/datasets/)**
