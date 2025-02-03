@@ -119,7 +119,7 @@ Evaluación de datos relacionados con restaurantes y su popularidad. Se analiza 
 - Python y pandas para análisis.
 
 ![Calificación reataurantes]
-(![image](https://github.com/user-attachments/assets/6e909561-10f7-42d2-9040-98d0dd29ad55)
+![image](https://github.com/user-attachments/assets/6e909561-10f7-42d2-9040-98d0dd29ad55)
 
 #### Dataset:
 **[Restaurant Reviews Dataset (Kaggle)]((https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants))**
