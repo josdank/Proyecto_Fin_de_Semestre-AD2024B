@@ -99,6 +99,7 @@ Estudio de las tendencias en actividades recreativas y hobbies populares. Se ana
 
 **Dataset:**  
 [Sports and Outdoors (Kaggle)](https://www.kaggle.com/code/beratozmen/amazon-data-analysis/notebook)
+[Sports and Outdoors 2 (Kaggle)](https://www.kaggle.com/code/abdallahwagih/nlp-word-embedding-approaches/notebook)
 
 ![Análisis de Actividades](![image](https://github.com/user-attachments/assets/e2ca847f-51b8-4f0a-8c91-d1d99f180c8f)
 
