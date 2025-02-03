@@ -145,7 +145,7 @@ Análisis de datos sobre conciertos y eventos públicos para identificar patrone
 (![image](https://github.com/user-attachments/assets/04532c77-05d6-4c14-94f8-10c368c466bd)
 
 #### Dataset:
-**[Events Dataset (Kaggle)]([(https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)](https://www.kaggle.com/datasets/aleespinosa/soccer-match-event-dataset))**
+**[Events Dataset (Kaggle)](https://www.kaggle.com/datasets/aleespinosa/soccer-match-event-dataset)**
 
 ---
 
