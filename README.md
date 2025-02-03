@@ -80,7 +80,8 @@ Análisis de las estadísticas de la NBA, evaluando el rendimiento de equipos y 
 - Power BI para visualización.
 - Python para procesamiento y análisis de datos.
 
-![Dashboard Power BI](![image](https://github.com/user-attachments/assets/845326fd-63cf-43d9-bbc5-0f5428d25c69)
+![Dashboard Power BI]
+(![image](https://github.com/user-attachments/assets/845326fd-63cf-43d9-bbc5-0f5428d25c69)
 
 #### Dataset:
 **[NBA Statistics (Kaggle)](https://www.kaggle.com/code/joshvads/nba-performance-analysis-ridge-vs-linear/input)**
@@ -117,10 +118,13 @@ Evaluación de datos relacionados con restaurantes y su popularidad. Se analiza 
 - Bases de datos SQL.
 - Python y pandas para análisis.
 
-![Calificación reataurantes](![image](https://github.com/user-attachments/assets/6e909561-10f7-42d2-9040-98d0dd29ad55)
+![Calificación reataurantes]
+(![image](https://github.com/user-attachments/assets/6e909561-10f7-42d2-9040-98d0dd29ad55)
 
 #### Dataset:
-**[Restaurant Reviews Dataset (Kaggle)](https://www.kaggle.com/datasets/)**
+**[Restaurant Reviews Dataset (Kaggle)]([https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants))**
+**[Restaurant Reviews Dataset (YELP)](https://www.yelp.com/developers?country=US)**
+
 
 ---
 
@@ -137,10 +141,11 @@ Análisis de datos sobre conciertos y eventos públicos para identificar patrone
 **Dataset:**  
 - Datos extraídos de plataformas de eventos y redes sociales.
 
-![Análisis de Sentimientos](https://via.placeholder.com/400x200.png?text=Análisis+de+Sentimientos)
+![Análisis de Sentimientos]
+(![image](https://github.com/user-attachments/assets/04532c77-05d6-4c14-94f8-10c368c466bd)
 
 #### Dataset:
-**[Concerts and Events Data (Kaggle)](https://www.kaggle.com/datasets/)**
+**[Concerts and Events Data (Kaggle)]([https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/aleespinosa/soccer-match-event-dataset))**
 
 ---
 
