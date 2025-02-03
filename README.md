@@ -99,10 +99,9 @@ Estudio de las tendencias en actividades recreativas y hobbies populares. Se ana
 
 **Dataset:**  
 - [Sports and Outdoors (Kaggle)](https://www.kaggle.com/code/beratozmen/amazon-data-analysis/notebook)
-..
 - [Sports and Outdoors 2 (Kaggle)](https://www.kaggle.com/code/abdallahwagih/nlp-word-embedding-approaches/notebook)
 
-![Análisis de Actividades](![image](https://github.com/user-attachments/assets/e2ca847f-51b8-4f0a-8c91-d1d99f180c8f)
+- ![Análisis de Actividades](![image](https://github.com/user-attachments/assets/e2ca847f-51b8-4f0a-8c91-d1d99f180c8f)
 
 ---
 
@@ -120,8 +119,8 @@ Evaluación de datos relacionados con restaurantes y su popularidad. Se analiza 
 - Bases de datos SQL.
 - Python y pandas para análisis.
 
-![Calificación reataurantes]
-![image](https://github.com/user-attachments/assets/6e909561-10f7-42d2-9040-98d0dd29ad55)
+- ![Calificación reataurantes]
+- ![image](https://github.com/user-attachments/assets/6e909561-10f7-42d2-9040-98d0dd29ad55)
 
 #### Dataset:
 **[Restaurant Reviews Dataset (Kaggle)]((https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants))**
@@ -143,8 +142,8 @@ Análisis de datos sobre conciertos y eventos públicos para identificar patrone
 **Dataset:**  
 - Datos extraídos de plataformas de eventos y redes sociales.
 
-![Análisis de Sentimientos]
-(![image](https://github.com/user-attachments/assets/04532c77-05d6-4c14-94f8-10c368c466bd)
+- ![Análisis de Sentimientos]
+- (![image](https://github.com/user-attachments/assets/04532c77-05d6-4c14-94f8-10c368c466bd)
 
 #### Dataset:
 **[Events Dataset (Kaggle)](https://www.kaggle.com/datasets/aleespinosa/soccer-match-event-dataset)**
@@ -164,7 +163,8 @@ Estudio del comportamiento de los usuarios en los juegos de Valve, utilizando an
 **Dataset:**  
 [Steam Reviews (Kaggle)](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)
 
-![Gráficos de Métricas](![image](https://github.com/user-attachments/assets/9e4c9973-7b74-48d1-9850-76e1fd39ba08)
+- ![Gráficos de Métricas]
+- (![image](https://github.com/user-attachments/assets/9e4c9973-7b74-48d1-9850-76e1fd39ba08)
 
 ---
 
