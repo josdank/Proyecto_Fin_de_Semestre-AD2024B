@@ -122,7 +122,7 @@ Evaluación de datos relacionados con restaurantes y su popularidad. Se analiza 
 (![image](https://github.com/user-attachments/assets/6e909561-10f7-42d2-9040-98d0dd29ad55)
 
 #### Dataset:
-**[Restaurant Reviews Dataset (Kaggle)]([https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants))**
+**[Restaurant Reviews Dataset (Kaggle)]((https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants))**
 **[Restaurant Reviews Dataset (YELP)](https://www.yelp.com/developers?country=US)**
 
 
