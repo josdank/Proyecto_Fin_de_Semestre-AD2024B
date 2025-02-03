@@ -83,7 +83,7 @@ Análisis de las estadísticas de la NBA, evaluando el rendimiento de equipos y 
 ![Dashboard Power BI](![image](https://github.com/user-attachments/assets/845326fd-63cf-43d9-bbc5-0f5428d25c69)
 
 #### Dataset:
-**[NBA Statistics (Kaggle)](https://www.kaggle.com/datasets/)**
+**[NBA Statistics (Kaggle)](https://www.kaggle.com/code/joshvads/nba-performance-analysis-ridge-vs-linear/input)**
 
 ---
 
@@ -117,7 +117,7 @@ Evaluación de datos relacionados con restaurantes y su popularidad. Se analiza 
 - Bases de datos SQL.
 - Python y pandas para análisis.
 
-![Mapa de Restaurantes](https://via.placeholder.com/400x200.png?text=Mapa+de+Restaurantes)
+![Calificación reataurantes](![image](https://github.com/user-attachments/assets/6e909561-10f7-42d2-9040-98d0dd29ad55)
 
 #### Dataset:
 **[Restaurant Reviews Dataset (Kaggle)](https://www.kaggle.com/datasets/)**
