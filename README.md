@@ -145,7 +145,7 @@ Análisis de datos sobre conciertos y eventos públicos para identificar patrone
 (![image](https://github.com/user-attachments/assets/04532c77-05d6-4c14-94f8-10c368c466bd)
 
 #### Dataset:
-**[Concerts and Events Data (Kaggle)]([https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/aleespinosa/soccer-match-event-dataset))**
+**[Events Dataset (Kaggle)]([(https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)](https://www.kaggle.com/datasets/aleespinosa/soccer-match-event-dataset))**
 
 ---
 
@@ -162,7 +162,7 @@ Estudio del comportamiento de los usuarios en los juegos de Valve, utilizando an
 **Dataset:**  
 [Steam Reviews (Kaggle)](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)
 
-![Gráficos de Métricas](https://via.placeholder.com/400x200.png?text=Gráficos+de+Métricas)
+![Gráficos de Métricas](![image](https://github.com/user-attachments/assets/9e4c9973-7b74-48d1-9850-76e1fd39ba08)
 
 ---
 
