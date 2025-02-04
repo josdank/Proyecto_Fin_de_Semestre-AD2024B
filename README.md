@@ -182,8 +182,8 @@ Estudio del comportamiento de los usuarios en los juegos de Valve, utilizando an
 
 A continuación, se incluyen los enlaces a los videos explicativos de los análisis realizados en este proyecto:
 
-- [Video 1: Análisis de Datos y Resultados](https://youtu.be/enlace1)
-- [Video 2: Visualización de Resultados y Conclusiones](https://youtu.be/enlace2)
+- [Video 1: Análisis de Datos y Resultados](https://www.youtube.com/watch?v=0NXdRqCpmvo)
+- [Video 2: Visualización de Resultados y Conclusiones](https://www.youtube.com/watch?v=Vpy2iFa43R0)
 
 ## 👥 Créditos
 
