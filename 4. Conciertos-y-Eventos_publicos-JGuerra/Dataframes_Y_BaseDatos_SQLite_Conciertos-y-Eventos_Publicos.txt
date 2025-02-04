@@ -1,0 +1,23 @@
+							ESCUELA POLITÉCNICA NACIONAL
+						     ESCUELA DE FORMACIÓN DE TECNÓLOGOS
+
+							      Analisis de Datos 
+							 	(TDSD353)
+
+
+ASIGNATURA:	Analisis de Datos
+PROFESOR:	Ing. Juan Pablo Zaldumbide
+PERÍODO ACADÉMICO:	2024-B
+TÍTULO:
+Proyecto Final 
+ 
+ESTUDIANTES:
+	
+	Josué Guerra 
+
+	
+ENLACE de los dataframes de Conciertos-y-Eventos_publicos:
+	https://epnecuador-my.sharepoint.com/:u:/g/personal/josue_guerra_epn_edu_ec/EYBEp8cHw-BJiMQprjB6lKcBCIyilEm0CuEt6VrlFpnWnQ?e=YMqPg6
+
+Base de datos de MsQlite:
+	https://epnecuador-my.sharepoint.com/:u:/g/personal/josue_guerra_epn_edu_ec/EdYyccTNNFlEuGrQ7w-RGhwB9xvTQEj67InFlTXkSO8qlg?e=bVZ1vx
