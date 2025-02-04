@@ -1,0 +1,27 @@
+							ESCUELA POLITÉCNICA NACIONAL
+						     ESCUELA DE FORMACIÓN DE TECNÓLOGOS
+
+							      Analisis de Datos 
+							 	(TDSD353)
+
+
+ASIGNATURA:	Analisis de Datos
+PROFESOR:	Ing. Juan Pablo Zaldumbide
+PERÍODO ACADÉMICO:	2024-B
+TÍTULO:
+Proyecto Final 
+ 
+ESTUDIANTES:
+	
+	Josué Guerra 
+	Luis Ramos
+	Santiago Cumbal
+	Edwin Sarango
+	Josué Mejía
+	
+ENLACE del Repositorio de GitHub
+	https://github.com/josdank/Proyecto_Fin_de_Semestre-AD2024B.git
+
+ENLACE del data Frame Final:
+	https://epnecuador-my.sharepoint.com/:u:/g/personal/luis_ramos02_epn_edu_ec/EbPZWClgo5VPidErrchhRDIBN9RbWomYYuzdsbGKm-GYKw?e=ngpc0R 
+
